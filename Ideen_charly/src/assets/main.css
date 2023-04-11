@@ -1,0 +1,22 @@
+:root {
+  --azul: #384ffe;
+  --gris: #787c9d;
+}
+
+html {
+  overflow-y: auto;
+}
+
+#app {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+
+  font-weight: normal;
+}
+
+a {
+  color: inherit;
+  text-decoration: none;
+  transition: 0.4s;
+}
